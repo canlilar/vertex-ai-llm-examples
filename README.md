@@ -12,7 +12,7 @@ pip install google-cloud-aiplatform==1.25.0
 
 ### Execute an example to test everything works
 ```
-python gcp_classify_titles.py -t 'Aid relief sent to victims of earthquake in Turkey'
+python gcp_classify_titles.py -t 'The ways to practice self-care with a fitness watch are almost limitless, but here are six easy-to-implement tips to start today.'
 ```
 
 ### Play time!
