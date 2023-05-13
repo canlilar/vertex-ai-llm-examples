@@ -5,7 +5,7 @@ This repo contains several examples for how to use google's new llm's with the v
 
 ### Set up virtual environment and install dependencies
 ```
-conda create -n py392env python=3.9.2
+conda create -n py392env python=3.9.2 -y
 conda activate py392env
 pip install google-cloud-aiplatform==1.25.0
 ```
