@@ -1,7 +1,7 @@
 # Vertex AI LLM Examples
 This repo contains several examples for how to use Google's new LLM's with the Vertex AI SDK. For more examples, please visit Gen AI Studio prompt gallery. 
 
-**Disclaimer**
+**Disclaimer** <br>
 This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
 
 ### Set up virtual environment and install dependencies
