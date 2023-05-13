@@ -4,7 +4,7 @@ This repo contains several examples for how to use google's new llm's with the v
 **Note:** This repo assumes user is running commands in Google Cloud Shell!
 
 ### Set up virtual environment and install dependencies
-First (enable the Vertex AI API)[https://console.cloud.google.com/flows/enableapi?apiid=aiplatform.googleapis.com&_ga=2.211996500.178311028.1684004158-257622063.1667412811]
+First [Enable the Vertex AI API](https://console.cloud.google.com/flows/enableapi?apiid=aiplatform.googleapis.com&_ga=2.211996500.178311028.1684004158-257622063.1667412811)
 ```
 python3.9 -m venv py392env
 source py392env/bin/activate
