@@ -1,7 +1,8 @@
-# vertex-ai-llm-examples
-This repo contains several examples for how to use google's new llm's with the vertex ai SDK.
+# Vertex AI LLM Examples
+This repo contains several examples for how to use Google's new LLM's with the Vertex AI SDK. For more examples, please visit Gen AI Studio prompt gallery. 
 
-**Note:** This repo assumes user is running commands in Google Cloud Shell!
+**Disclaimer**
+This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
 
 ### Set up virtual environment and install dependencies
 First [Enable the Vertex AI API](https://console.cloud.google.com/flows/enableapi?apiid=aiplatform.googleapis.com&_ga=2.211996500.178311028.1684004158-257622063.1667412811), then run the following commands in your Google Cloud Shell:
