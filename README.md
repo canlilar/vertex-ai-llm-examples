@@ -11,8 +11,13 @@ pip install google-cloud-aiplatform==1.25.0
 ```
 
 ### Execute an example to test everything works
+Classify titles of blog posts
 ```
 python gcp_classify_titles.py -t 'The ways to practice self-care with a fitness watch are almost limitless, but here are six easy-to-implement tips to start today.'
+```
+or classify wine types
+```
+python gcp_classify_objects.py -t 'merlot'
 ```
 
 ### Play time!
