@@ -1,9 +1,6 @@
 # Vertex AI LLM Examples
 This repo contains several examples for how to use Google's new LLM's with the Vertex AI SDK. For more examples, please visit Gen AI Studio prompt gallery. 
 
-**Disclaimer** <br>
-This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
-
 ### Set up virtual environment and install dependencies
 First [Enable the Vertex AI API](https://console.cloud.google.com/flows/enableapi?apiid=aiplatform.googleapis.com&_ga=2.211996500.178311028.1684004158-257622063.1667412811), then run the following commands in your Google Cloud Shell:
 ```
@@ -26,3 +23,6 @@ python gcp_classify_objects.py -t 'merlot'
 
 ### Play time!
 Feel free to edit the examples with you own ideas! Keep in the mind the structure of the context is very important. 
+
+### Disclaimer
+This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
